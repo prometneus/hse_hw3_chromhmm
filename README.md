@@ -21,3 +21,8 @@ Like in previous hometask, a HepG2 cell line was taken.
 
 ## Pictures from ChromHmm LearnModel output
 
+![image](pics/HepG2_10_RefSeqTES_neighborhood.png)
+![image](pics/HepG2_10_RefSeqTSS_neighborhood.png)
+![image](pics/HepG2_10_overlap.png)
+![image](pics/emissions_10.png)
+![image](pics/transitions_10.png)
