@@ -54,4 +54,5 @@ Like in previous hometask, a HepG2 cell line was taken.
 
 ![image](https://user-images.githubusercontent.com/86663451/160301178-2e8d241e-2a6b-40a4-b152-03bc96bb8c17.png)
 
+![image](https://user-images.githubusercontent.com/86663451/160301235-c4b90c50-7fdf-43c4-9c00-39acf2fd6fc6.png)
 
