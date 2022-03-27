@@ -34,3 +34,18 @@ Like in previous hometask, a HepG2 cell line was taken.
 ![image](https://user-images.githubusercontent.com/86663451/160263281-ea60cd66-a077-4df4-986e-dde642de59e8.png)
 
 ![image](https://user-images.githubusercontent.com/86663451/160263372-d6b7aee1-1600-4efe-9a1c-e671745c5e80.png)
+
+![image](https://user-images.githubusercontent.com/86663451/160297305-672c806c-48a5-43f6-8617-9acf172993bc.png)
+
+| Epigenetic type number and color | Given appellation | Mark | Features | 
+| --- | --- | --- | --- | 
+| 1 синий | Taxon | H3k36m3 | Не очень сильные сигналы, где-то до 20 |
+| 2 голубой | Transcriptional | H3k79m2 | Зашкаливающие пики, такое ощущение, что выходят за 50 единиц | 
+| 3 аквамарин | Taxon |  H3k4m1, H3k4m2, H3k49m2 | На H3k79m2 сильный сигнал, на H3k4m1/2 держится в средних границах | 
+| 4 фиолетовый | Enhancer | H3k4m1 | Сильный сигнал на H3k4m1 | 
+| 5 светло-зелёный | Promoter | H3k4m1 | Сильный плотный сигнал, проявляется ещё на H3k4m2 и H3k27ac |
+| 6 тёмно-зелёный | Promoter | H3k79m2 | Сигнал сильный, причём много где. Отмечается на H3k4m2, H3k4m3 и на H3k9ac |
+| 7 красный | Promoter | H3k4me2 | Сильный пик, ближе к 40 | 
+| 8 горчичный | Repressed | Ezh2 | На графике пики выше, чем для 9. Ближе к концу сигналы самые сильные | 
+| 9 жёлтый | Heterochromatin | H2az, Ezh2 | Много пиков малой и средней высоты на соответствующем графике сигнала, но на H2az проявляется отчётливее. Может попадать на хромосому | 
+| 10 лиловый | Insulator | Ctcf | Очень высокий пик (в районе 50) на графике |
