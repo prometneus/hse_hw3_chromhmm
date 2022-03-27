@@ -26,3 +26,11 @@ Like in previous hometask, a HepG2 cell line was taken.
 ![image](pics/HepG2_10_overlap.png)
 ![image](pics/emissions_10.png)
 ![image](pics/transitions_10.png)
+
+## Genome browser
+
+![image](https://user-images.githubusercontent.com/86663451/160263260-f2f8f4c3-a114-4e4e-b05a-a5d516320b4f.png)
+
+![image](https://user-images.githubusercontent.com/86663451/160263281-ea60cd66-a077-4df4-986e-dde642de59e8.png)
+
+![image](https://user-images.githubusercontent.com/86663451/160263372-d6b7aee1-1600-4efe-9a1c-e671745c5e80.png)
