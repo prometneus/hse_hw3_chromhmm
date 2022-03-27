@@ -52,5 +52,6 @@ Like in previous hometask, a HepG2 cell line was taken.
 
 ## Bonus task
 
-После замены названий на мною определённые не получилось загрузить файл в браузер -- ничего нового не отображалось, будто его не приняло. Файл в архиве прилагаю к общим файлам.
+![image](https://user-images.githubusercontent.com/86663451/160301178-2e8d241e-2a6b-40a4-b152-03bc96bb8c17.png)
+
 
